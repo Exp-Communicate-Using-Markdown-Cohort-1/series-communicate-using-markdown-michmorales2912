@@ -1,4 +1,4 @@
-# Welcome to "Communicate using Markdown"! 👋
+# Welcome to "Communicate using Markdown Practice"! 👋
 
 ## What is Markdown?
 Markdown is a lightweight syntax for communicating on GitHub. You can format text to add heading, lists, bold, italics, tables, and many other stylings.
@@ -11,9 +11,12 @@ You can use Markdown in most places around GitHub:
 
 ## What is a header?
 A header is a larger bit of text at the beginning of a section. There are six sizes:
-- `#` Heading 1
-- `##` Heading 2
-- `###` Heading 3
-- `####` Heading 4
-- `#####` Heading 5
-- `######` Heading 6
+- # Hello
+- ## Hello World
+- ### Hello World Hi
+- #### Hello World Hi Hello
+- ##### Hello World Hi Hello World
+- ###### Hello World Hi Hello World Hi 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
