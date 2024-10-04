@@ -20,3 +20,7 @@ A header is a larger bit of text at the beginning of a section. There are six si
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
